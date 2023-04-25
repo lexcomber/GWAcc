@@ -1,6 +1,6 @@
 # Geographically weighted accuracy for hard and soft land cover classifications: 4 approaches with coded illustrations
 
-Alexis Comber<sup>1*</sup> Naru Tsutsumida<sup>2</sup> 
+Alexis Comber<sup>1*</sup> and Naru Tsutsumida<sup>2</sup> 
 
 
 <sup>1</sup> School of Geography, University of Leeds, Leeds, UK.\
@@ -16,7 +16,7 @@ This paper will be submitted to IJRS.
 To run the analysis in this paper you should download the the R script `gw_acc.R`, the data files (`validation_data.csv`) and install the packages. Package and other info is below. The data files and supporting scripts will need will need to be locally available . The code recreates the results as the same sequence in the paper. 
 
 If you have any problems with data / code / versions etc please contact Lex Comber at the email above.
-
+```{r}
 sessionInfo()
 R version 4.2.0 (2022-04-22)
 Platform: x86_64-apple-darwin17.0 (64-bit)
@@ -63,3 +63,4 @@ loaded via a namespace (and not attached):
 [101] car_3.1-0             KernSmooth_2.23-20    utf8_1.2.3            tzdb_0.3.0            fds_1.8              
 [106] grid_4.2.0            readxl_1.4.1          diptest_0.76-0        vcd_1.4-11            reprex_2.0.2         
 [111] classInt_0.4-8        stats4_4.2.0          munsell_0.5.0        
+```
