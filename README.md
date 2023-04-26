@@ -13,7 +13,7 @@ This paper provides a high level review of approaches for generating spatially d
 This paper will be submitted to IJRS. 
 
 ## Code
-To run the analysis in this paper you should download the the R script `gw_acc.R`, the data file (`validation_data.csv`) and install the packages. Package and other info is below. The data files and supporting scripts will need will need to be locally available . The code recreates the results as the same sequence in the paper. 
+To run the analysis in this paper you should download the the R script `gw_acc.R`, the data file (`validation_data.csv`) and install the packages. Package and other info is below. The data files and supporting scripts will need will need to be locally available . The code recreates the results in the same sequence as in the paper. 
 
 If you have any problems with data / code / versions etc please contact Lex Comber at the email above.
 ```{r}
